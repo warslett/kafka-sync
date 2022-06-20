@@ -1,0 +1,12 @@
+{
+  "name": "kafkasync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "consumer.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "kafkajs": "^2.0.2"
+  }
+}

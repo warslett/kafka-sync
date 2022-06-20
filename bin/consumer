@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+docker-compose exec kafka2 kafka-console-consumer --topic my-topic --bootstrap-server localhost:9092
